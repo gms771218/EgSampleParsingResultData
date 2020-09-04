@@ -1,0 +1,11 @@
+/.wing
+/.vscode
+/bin-debug
+/bin-release
+favicon.ico
+.svn
+*.db
+manifest.json
+resource/\.DS_Store
+
+\.DS_Store
